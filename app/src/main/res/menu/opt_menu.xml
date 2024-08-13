@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:icon="@drawable/baseline_help_24"
+        android:title="Item1"
+        android:id="@+id/item1"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/exit"
+        android:title="exit"
+        app:showAsAction="never">
+    </item>
+
+</menu>

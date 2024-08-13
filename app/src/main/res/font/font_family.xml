@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Regular Font -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="400"
+        android:font="@font/charthe_reg" />
+    <!-- Bold or Italic Font -->
+    <font
+        android:fontStyle="normal"
+        android:fontWeight="700"
+        android:font="@font/charthe_italic" />
+</font-family>

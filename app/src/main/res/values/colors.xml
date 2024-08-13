@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ochre">#b27b0b</color>
+    <color name="pink">#fdc5b3</color>
+    <color name="green">#d1ddc1</color>
+    <color name="darkgreen_trans">#80afcb88</color>
+    <color name="darkgreen">#afcb88</color>
+    <color name="darkpink">#fbac99</color>
+    <color name="darkpink_trans">#80fbac99</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
